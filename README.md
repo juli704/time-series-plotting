@@ -22,3 +22,9 @@ Make sure you have `Python 3` installed to execute any of the scripts, as they w
 ## 3. Run a Script
 
 `python ./plot_bar_series.py`
+
+# Gallery
+
+![plot_bar_series.png](images/plot_bar_series.png)
+![plot_quote_series.png](images/plot_quote_series.png)
+![plot_overlaid_series.png](images/plot_overlaid_series.png)
