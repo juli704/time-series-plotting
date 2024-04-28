@@ -9,11 +9,11 @@ The example data in the stocks folder is sourced from the [polygon.io API](https
 
 Make sure you have `Python 3` installed to execute any of the scripts, as they were developed and tested using that version ([official python downloads page](https://www.python.org/downloads/))
 
-## 1. Clone this Repo
+## 1. Clone
 
 `git clone <repo-path>`
 
-## 2. Install Required Modules
+## 2. Install Requirements
 
 `cd <repo-slug>`
 
